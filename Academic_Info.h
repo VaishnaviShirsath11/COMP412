@@ -15,6 +15,11 @@ private:
 public:
     void Academic_Introduction();
     void Eligible_Academic();
-};
+
+    PastAcademicInfo() {};
+    ~PastAcademicInfo() {};
+    
+    
+ };
 
 #endif // PASTACADEMICINFO_H

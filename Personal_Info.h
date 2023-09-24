@@ -14,6 +14,10 @@ private:
 public:
     void Personal_Introduction();
     void Eligible_Age();
+
+    PersonalInfo() {};
+    ~PersonalInfo() {}; 
+
 };
 
 #endif // PERSONALINFO_H
